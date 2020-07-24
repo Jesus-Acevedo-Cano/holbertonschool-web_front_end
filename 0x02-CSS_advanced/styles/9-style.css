@@ -11,8 +11,10 @@ body{
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
 }
+/* remove anchor decoration */
 a{
     color: var(--text-color);
+    text-decoration: none;
 }
 .visually-hidden{
     display: none;
