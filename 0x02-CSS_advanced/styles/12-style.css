@@ -64,7 +64,7 @@ a{
     --section-header-align: center;
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
-    --section-title-color: --color-black;
+    --section-title-color: var(--color-black);
 }
 /* custom font-family properties */
 h1, h2, h3, h4, h5, h6{
