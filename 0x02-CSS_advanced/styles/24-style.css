@@ -465,7 +465,7 @@ ul.row{
 }
 /* background and hover state to services */
 .card-services .card-title{
-    margin: none;
+    margin: 0;
 }
 .card-services a{
     display: block;
