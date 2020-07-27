@@ -613,10 +613,10 @@ ul.row{
 /* Add transformations on the card work */
 .card-work:hover .card-image{
     transform: scale(1.2);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 .card-work:hover .card-outer{
     transform: scale(0.95);
-    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 /* Add animations on the navigation items */
 .nav .nav-link::before{
