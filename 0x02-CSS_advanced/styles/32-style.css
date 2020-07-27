@@ -616,6 +616,7 @@ ul.row{
 }
 .card-work:hover .card-outer{
     transform: scale(0.95);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 /* Add animations on the navigation items */
 .nav .nav-link::before{
@@ -626,10 +627,6 @@ ul.row{
     transition-duration: var(--transition-duration);
     transition-property: color, background-color;
 }
-/* Add transitions on the card works */
-.card-work:hover .card-image{
-    transition: var(–transition-duration) var(transition-cubic-bezier);
-}
 .card-work .card-inner{
-    transition: var(–transition-duration) var(transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
