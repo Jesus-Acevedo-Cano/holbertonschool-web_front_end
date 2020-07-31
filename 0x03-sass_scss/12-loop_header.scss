@@ -1,8 +1,6 @@
 /* Loop Headers  */
-$i: 1;
-@while $i < 7 {
+@for $i from 1 through 5 {
     h#{$i} {
         font-size: #{$i}px;
     }
-    $i: $i + 1;
 }
