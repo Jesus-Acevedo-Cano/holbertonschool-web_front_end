@@ -1,8 +1,8 @@
 /* Loop cols  */
 @for $i from 1 through 4 {
-    $width: 100%;
+    $j: 100%;
     .col-#{$i} {
-        $width: $width / $i;
-        width: $width;
+        $j: $j / $i;
+        width: $j;
     }
 }
