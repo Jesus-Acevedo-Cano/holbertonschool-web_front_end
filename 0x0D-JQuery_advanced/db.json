@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "title": "Nothing else matters",
+      "author": "Metallica",
+      "id": 2
+    },
+    {
+      "title": "Run to the hills",
+      "author": "Iron Maiden",
+      "id": 3
+    },
+    {
+      "title": "Castle of glass",
+      "author": "Linkin Park",
+      "id": 4
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 6
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 8
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 9
+    },
+    {
+      "author": "Audioslave",
+      "title": "Black hole sun",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
